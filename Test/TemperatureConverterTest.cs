@@ -1,7 +1,9 @@
+using App;
+
 namespace Test;
 
 public class TemperatureConverterTest {
-    
+        [Fact]
         public void TestFahrenheitToCelsius()
         {
             var converter = new FahrenheitConverter();
@@ -12,12 +14,4 @@ public class TemperatureConverterTest {
             Assert.Equal(100, result);
         }
         
-        public void TestCelsiusToFahrenheit()
-        {
-            var converter = new Converter();
-            var result = converter.CelsiusToFahrenheit(-17);
-            Assert.Equal(1.4,result);
-        }
-    }
-    
 }

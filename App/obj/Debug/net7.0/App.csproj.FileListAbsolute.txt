@@ -1,0 +1,12 @@
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/bin/Debug/net7.0/App.deps.json
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/bin/Debug/net7.0/App.dll
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/bin/Debug/net7.0/App.pdb
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/obj/Debug/net7.0/App.csproj.AssemblyReference.cache
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/obj/Debug/net7.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/obj/Debug/net7.0/App.AssemblyInfoInputs.cache
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/obj/Debug/net7.0/App.AssemblyInfo.cs
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/obj/Debug/net7.0/App.csproj.CoreCompileInputs.cache
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/obj/Debug/net7.0/App.dll
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/obj/Debug/net7.0/refint/App.dll
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/obj/Debug/net7.0/App.pdb
+/Users/markusagnsgaard/RiderProjects/TestSP1/App/obj/Debug/net7.0/ref/App.dll
